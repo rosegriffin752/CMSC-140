@@ -1,0 +1,10 @@
+EMPLOYEE ABSENCE REPORT
+employee id   days absent
+     241         6
+    2140         8
+      12         2
+
+The 3 employees were absent a total of 16 days.
+The average number of days absent is 5.3 days.
+
+Programmer: Rose Griffin
