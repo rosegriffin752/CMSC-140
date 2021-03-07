@@ -13,9 +13,6 @@
 #include <iostream>
 using namespace std;
 
-#include<iostream>
-using namespace std;
-
 // Global constants 
 const int MIN = 1;  // The value of the smallest number
 const int MAX = 9;  // The value of the largest number
